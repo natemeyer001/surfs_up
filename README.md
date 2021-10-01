@@ -5,11 +5,14 @@ A potential business partner is interested in starting a surf and icecream shop 
 
 ## Results
 June summary statistics
+
 ![june](https://user-images.githubusercontent.com/30487641/135546094-5266bf77-b9cf-40f4-9b8f-ecf2a29834f2.PNG)
 
 
 December summary statistics
+
 ![december](https://user-images.githubusercontent.com/30487641/135546101-db16e339-242b-4ddf-8559-9b71f10cc970.PNG)
+
 
 
 - For both individual months the mean and median are very close. Additionally, the IQR is only 4 for June and 5 for December.
